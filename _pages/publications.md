@@ -24,4 +24,4 @@ author_profile: true
 
 * <b>A. Murguia</b>, S. D. Swanson, U. Scheven, J. F. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad. "Characterizing Tissue Relaxation in Fresh and Fixed White Matter Tissue Samples." <em>Power Pitch, ISMRM Workshop on WHATEVER: WHite Matter, Analysis, Translation, Experimental Validation, Evaluation \& Reproducibility. September 2023. Nashville, TN, USA.</em>
 
-* K. Han, M. Choi, X. Wang, <b>A. Murguia</b>, Z. Liu. "Characterizing Tissue Relaxation in Fresh and Fixed White Matter Tissue Samples." <em>Power Pitch, ISMRM Workshop on WHATEVER: WHite Matter, Analysis, Translation, Experimental Validation, Evaluation & Reproducibility. September 2023. Nashville, TN, USA.</em>
+* K. Han, M. Choi, X. Wang, <b>A. Murguia</b>, Z. Liu. "Individualized Representation Learning of Resting-State FMRI." <em>Oral, In Proceedings of the 31st Annual Meeting of the ISMRM. June 2023. Toronto, ON, Canada.</em>

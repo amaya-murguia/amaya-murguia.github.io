@@ -12,7 +12,7 @@ author_profile: true
 
 <b>Journal</b>
 ======
-*  <b>A. Murguia</b>, S. D. Swanson, U. Scheven, J. F. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad.  <br>[Myelin-Sensitive Quantitative MRI Analysis of Fresh, Thawed, and Fixed White Matter Tissue Samples.](https://ieeexplore.ieee.org/document/10190117)<br> In preparation.
+*  <b>A. Murguia</b>, S. D. Swanson, U. Scheven, J. F. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad. "Myelin-Sensitive Quantitative MRI Analysis of Fresh, Thawed, and Fixed White Matter Tissue Samples." In preparation.
 
 
 <b>Conference</b>

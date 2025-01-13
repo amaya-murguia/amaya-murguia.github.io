@@ -12,13 +12,13 @@ author_profile: true
 
 <b>Journal</b>
 ======
-*  <b>A. Murguia</b>, S. D. Swanson, U. Scheven, J. F. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad. "Myelin-Sensitive Quantitative MRI Analysis of Fresh, Thawed, and Fixed White Matter Tissue Samples." In preparation.
+*  <b>A. Murguia</b>, S. D. Swanson, U. Scheven, J. F. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad. "Impact of Tissue Sample Preparation Methods on Myelin-Sensitive Quantitative MR Imaging." Submitted to MRM, currently under review.
 
 
 <b>Conference</b>
 ======
 
-* <b>A. Murguia</b>, A. Jacobson, S. D. Swanson, U. Scheven, J. F. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad. "Quantitative MRI Analysis of Fresh, Thawed, and Fixed White Matter Tissue and Alzheimer's Disease Lesions." <em>In preparation to be submitted to the 33nd Annual Meeting of the ISMRM.</em>
+* <b>A. Murguia</b>, A. Jacobson, S. D. Swanson, U. Scheven, J. F. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad. "Quantitative MRI Analysis of Fresh, Thawed, and Fixed White Matter Tissue and Alzheimer's Disease Lesions." <em>Submitted to the 33nd Annual Meeting of the ISMRM.</em>
 
 * <b>A. Murguia</b>, S. D. Swanson, U. Scheven, J. F. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad. "Characterizing Tissue Relaxation and Magnetization Transfer in Fresh, Thawed, and Fixed White Matter Tissue Samples." <em>Digital Poster, In Proceedings of the 32nd Annual Meeting of the ISMRM. May 2024. Singapore.</em>
 

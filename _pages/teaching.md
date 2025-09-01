@@ -9,6 +9,7 @@ author_profile: true
 
 <b>At University of Michigan</b>
 ======
+* Graduate Student Instructor: (ECE 551) <em>Matrix Methods for Signal Processing, Data Analysis, and Machine Learning</em>, Aug-Dec 2025.<br> 
 * Graduate Student Instructor: (ENGR 100-430) <em>Intro to Engineering: Music Signal Processing</em>, Jan-Apr 2024.<br> 
 
 <b>At Cornell University</b>

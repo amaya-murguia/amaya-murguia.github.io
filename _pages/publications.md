@@ -12,7 +12,7 @@ author_profile: true
 
 <b>Journal</b>
 ======
-*  <b>A. Murguia</b>, S. D. Swanson, U. Scheven, J. F. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad. "Impact of Tissue Sample Preparation Methods on Myelin-Sensitive Quantitative MR Imaging." Submitted to MRM, currently under review.
+*  <b>A. Murguia</b>, S. D. Swanson, U. Scheven, J. F. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad. "Impact of Tissue Sample Preparation Methods on Myelin-Sensitive Quantitative MR Imaging." <em>Magn Reson Med,</em> 94:2071-2085, 2025.  doi: 10.1002/mrm.30623. [link](http://dx.doi.org/10.1002/mrm.30623).
 
 
 <b>Conference</b>

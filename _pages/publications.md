@@ -18,7 +18,7 @@ author_profile: true
 <b>Conference</b>
 ======
 
-* <b>A. Murguia</b>, A. Jacobson, S. D. Swanson, U. Scheven, J. F. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad. "Quantitative MRI Analysis of Fresh, Thawed, and Fixed White Matter Tissue and Alzheimer's Disease Lesions." <em>Submitted to the 33nd Annual Meeting of the ISMRM.</em>
+* <b>A. Murguia</b>, A. Jacobson, S. D. Swanson, U. Scheven, J. F. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad. "Quantitative MRI Analysis of Fresh, Thawed, and Fixed White Matter Tissue and Alzheimer's Disease Lesions." <em>Digital Poster, In Proceedings of the 33rd Annual Meeting of the ISMRM. May 2025. Honolulu, HI, USA.</em>
 
 * <b>A. Murguia</b>, S. D. Swanson, U. Scheven, J. F. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad. "Characterizing Tissue Relaxation and Magnetization Transfer in Fresh, Thawed, and Fixed White Matter Tissue Samples." <em>Digital Poster, In Proceedings of the 32nd Annual Meeting of the ISMRM. May 2024. Singapore.</em>
 

@@ -20,6 +20,8 @@ author_profile: true
 
 * <b>A. Murguia</b>, A. Jacobson, S. D. Swanson, U. Scheven, J. F. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad. "Quantitative MRI Analysis of Fresh, Thawed, and Fixed White Matter Tissue and Alzheimer's Disease Lesions." <em>Digital Poster, In Proceedings of the 33rd Annual Meeting of the ISMRM. May 2025. Honolulu, HI, USA.</em>
 
+* A. Jacobson, <b>A. Murguia</b>, S. D. Swanson, U. Scheven, J. F. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad. "Combined Diffusion Relaxometry: Phantom Validation and Ex Vivo Characterization of Alzheimer’s Disease Lesions." <em>Digital Poster, In Proceedings of the 33rd Annual Meeting of the ISMRM. May 2025. Honolulu, HI, USA.</em>
+
 * <b>A. Murguia</b>, S. D. Swanson, U. Scheven, J. F. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad. "Characterizing Tissue Relaxation and Magnetization Transfer in Fresh, Thawed, and Fixed White Matter Tissue Samples." <em>Digital Poster, In Proceedings of the 32nd Annual Meeting of the ISMRM. May 2024. Singapore.</em>
 
 * <b>A. Murguia</b>, S. D. Swanson, U. Scheven, J. F. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad. "Characterizing Tissue Relaxation in Fresh and Fixed White Matter Tissue Samples." <em>Power Pitch, ISMRM Workshop on WHATEVER: WHite Matter, Analysis, Translation, Experimental Validation, Evaluation & Reproducibility. September 2023. Nashville, TN, USA.</em>

@@ -19,8 +19,8 @@ author_profile: true
 ======
 
 * <b>A. Murguia</b>, A. Jacobson, S. D. Swanson, U. Scheven, J. F. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad. "Quantitative MRI Analysis of Fresh, Thawed, and Fixed White Matter Tissue and Alzheimer's Disease Lesions." <em>Digital Poster, In Proceedings of the 33rd Annual Meeting of the ISMRM. May 2025. Honolulu, HI, USA.</em><br>
-<span style="color: #0969da;"><b>Recipient of a Magna Cum Laude ISMRM Merit Award.</b></span><br>
-<span style="color: #0969da;"><b>Recipient of the 2nd Place White Matter Study Group Trainee Poster Competition Award.</b></span>
+<span style="color: #76ACC5;"><b>Recipient of a Magna Cum Laude ISMRM Merit Award.</b></span><br>
+<span style="color: #76ACC5;"><b>Recipient of the 2nd Place White Matter Study Group Trainee Poster Competition Award.</b></span>
 
 * A. Jacobson, <b>A. Murguia</b>, S. D. Swanson, U. Scheven, J. F. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad. "Combined Diffusion Relaxometry: Phantom Validation and Ex Vivo Characterization of Alzheimer’s Disease Lesions." <em>Digital Poster, In Proceedings of the 33rd Annual Meeting of the ISMRM. May 2025. Honolulu, HI, USA.</em>
 

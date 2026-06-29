@@ -18,8 +18,13 @@ author_profile: true
 <b>Conference</b>
 ======
 
+* <b>A. Murguia</b>, A. Jacobson, S. D. Swanson, U. Scheven, J. F. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad. "Comparison of Myelin-Sensitive Quantitative MR and Histological Markers in Alzheimer's Disease Tissue Samples." <em>Digital Poster, In Proceedings of the 34th Annual Meeting of the ISMRM. May 2026. Cape Town, South Africa.</em>
+
+* Q. Chen, T. Roos, <b>A. Murguia</b>, A. Umr, Y. Xie, P. Xu, S. Fujita, S. Littin, Y. Rathi, J. Zhu, B. Bilgic, J. F. Nielsen, M. Zaitsev. "An Open-Source Workflow for MRI Data Acquisition and Reconstruction using Pulseq: Multi-Site and Cross-Vendor Validation." <em>Oral, In Proceedings of the 34th Annual Meeting of the ISMRM. May 2026. Cape Town, South Africa.</em>
+<span style="color: #76ACC5;"><b>Recipient of a Summa Cum Laude ISMRM Merit Award.</b></span><br>
+
 * <b>A. Murguia</b>, A. Jacobson, S. D. Swanson, U. Scheven, J. F. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad. "Quantitative MRI Analysis of Fresh, Thawed, and Fixed White Matter Tissue and Alzheimer's Disease Lesions." <em>Digital Poster, In Proceedings of the 33rd Annual Meeting of the ISMRM. May 2025. Honolulu, HI, USA.</em><br>
-<span style="color: #76ACC5;"><b>Recipient of a Magna Cum Laude ISMRM Merit Award.</b></span><br>
+<span style="color: #76ACC5;"><b>Recipient of a Summa Cum Laude ISMRM Merit Award.</b></span><br>
 <span style="color: #76ACC5;"><b>Recipient of the 2nd Place White Matter Study Group Trainee Poster Competition Award.</b></span>
 
 * A. Jacobson, <b>A. Murguia</b>, S. D. Swanson, U. Scheven, J. F. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad. "Combined Diffusion Relaxometry: Phantom Validation and Ex Vivo Characterization of Alzheimer’s Disease Lesions." <em>Digital Poster, In Proceedings of the 33rd Annual Meeting of the ISMRM. May 2025. Honolulu, HI, USA.</em>

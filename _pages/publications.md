@@ -12,7 +12,7 @@ author_profile: true
 
 <b>Journal</b>
 ======
-*  Q. Chen, T. Roos, <b>A. Murguia</b>, Y. Xie, Z. Liu, P. Xu, S. Fujita, S. Littin, Y. Rathi, J. Zhu, B. Bilgic, J. F. Nielsen, M. Zaitsev. "An Open-Source, Reproducible MRI Data Acquisition and Reconstruction Workflow using Pulseq: Multi-Site and Cross-Vendor Validation." <em>Magn Reson Med,</em> 2026.  doi: [10.1002/mrm.70548](http://dx.doi.org/10.1002/mrm.70548).
+*  Q. Chen, T. Roos, <b>A. Murguia</b>, Y. Xie, Z. Liu, P. Xu, S. Fujita, S. Littin, Y. Rathi, J. Zhu, B. Bilgic, J. F. Nielsen, M. Zaitsev. "An Open-Source, Reproducible MRI Data Acquisition and Reconstruction Workflow using Pulseq: Multi-Site and Cross-Vendor Validation." <em>Magn Reson Med,</em> 96:2721–2738, 2026.  doi: [10.1002/mrm.70548](http://dx.doi.org/10.1002/mrm.70548).
 
 *  <b>A. Murguia</b>, S. D. Swanson, U. Scheven, J. F. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad. "Impact of Tissue Sample Preparation Methods on Myelin-Sensitive Quantitative MR Imaging." <em>Magn Reson Med,</em> 94:2071-2085, 2025.  doi: [10.1002/mrm.30623](http://dx.doi.org/10.1002/mrm.30623).
 
